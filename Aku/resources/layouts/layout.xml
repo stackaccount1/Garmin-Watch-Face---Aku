@@ -1,6 +1,0 @@
-<layout id="WatchFace">
-	<drawable id="background" />
-	<bitmap id="face" x="center" y="center" filename="aku1.png" />
-    <label id="TimeLabel" x="55" y="150" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_RED"/>
-    <label id="batt" x="70" y="170" font="Graphics.FONT_XTINY" color="Graphics.COLOR_RED" />
-</layout>
